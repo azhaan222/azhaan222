@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on learning Data Structures & Algorithms<br>👯 I’m looking to collaborate on open-source contributions where I can learn while doing<br>🤝 I’m looking for help with Improving consistency in coding<br>🌱 I’m currently learning Data Structures & Algorithms<br>⚡ Fun fact : ’m usually confident in everything… but I’ll randomly freeze if someone asks me my favorite colour.
+🔭 I’m currently working on learning Data Structures & Algorithms<br>👯 I’m looking to collaborate on open-source contributions where I can learn while doing<br>🤝 I’m looking for help with Improving consistency in coding<br>🌱 I’m currently learning Data Structures & Algorithms<br>⚡ Fun fact : Im usually confident in everything… but I’ll randomly freeze if someone asks me my favorite flower.
 
 
 ## 🌐 Socials:
